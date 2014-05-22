@@ -1,5 +1,5 @@
 <?php
 
-echo "testing git commands";
+echo "testing git commands!";
 
 ?>
